@@ -1,6 +1,6 @@
 {
  "app": "beam-campfire-pwa",
- "version": "0.2.5",
+ "version": "0.2.6",
  "files": [
   {
    "path": "app.js",
@@ -324,8 +324,8 @@
   },
   {
    "path": "lib/engine.js",
-   "sha256": "5217660f9726313b4900b44d0ce342a7833dcb1fc9d17ff081988154689ec2a5",
-   "size": 24642
+   "sha256": "e66abd1b49b67175cdc6d71e9900f6f45edcc4b8b3d2b0b7e440b1daf2589452",
+   "size": 25167
   },
   {
    "path": "lib/envelope.js",
@@ -544,8 +544,8 @@
   },
   {
    "path": "lib/selftest.js",
-   "sha256": "deb8284648d750fa1007f55029e1cf08e0001cd078bf88f0c117341825368748",
-   "size": 19412
+   "sha256": "c2f672e988e67eb33c764a724f64c40b274047ff6ef9b7923ce6611711475e43",
+   "size": 19314
   },
   {
    "path": "lib/session.js",
@@ -564,8 +564,8 @@
   },
   {
    "path": "lib/store.js",
-   "sha256": "1b66d06fabdcfb66d93a9d11e05cac04c361b635c4fee07fa71860e794089167",
-   "size": 2879
+   "sha256": "c197a6ea8f76a6d7b98345cd88adf83d11c0d379f0aa363e3c11bb1af97c1b9b",
+   "size": 2863
   },
   {
    "path": "lib/sync.js",
@@ -594,13 +594,13 @@
   },
   {
    "path": "lib/version.js",
-   "sha256": "88d08a5e12a48fd157f6d7a206ef827a34c1d988f972ff7acfcc3091a23b8be5",
+   "sha256": "12acebec02d56c96e3f2d75ccba8ac276b8d391ba5717ae87a22f55d3eac4240",
    "size": 1275
   },
   {
    "path": "lib/wallet.js",
-   "sha256": "698cd78fdd1986dee3122365f59d9fdbc2943df8bccb1b0e7f42e35ac48c1b6b",
-   "size": 25907
+   "sha256": "c5f7f7bb4bfcdeacdad9bfcab62ee5a50085cfd9e6111487533989e638fc02bd",
+   "size": 25937
   },
   {
    "path": "lib/wallet_file.js",
@@ -819,8 +819,8 @@
   },
   {
    "path": "screens/fast_start.js",
-   "sha256": "fdcccb7746184ff88b7701d502dc11a3e596f00f920bbd4fa28162bdbac30938",
-   "size": 12344
+   "sha256": "af4ac9081ff3c37f91004d55bad6fac9142e7744b54648f5e8cf6fd1742ab759",
+   "size": 14169
   },
   {
    "path": "screens/home.js",
@@ -829,8 +829,8 @@
   },
   {
    "path": "screens/import_wallet.js",
-   "sha256": "17a97692a4679b92a1edfe84ae4a3a459f3b1b3da82d9eeddf3abc01e0470ce8",
-   "size": 9193
+   "sha256": "04eb237e37c70b1ff74cbd3ccd3ebbf9bc6fa61dae32ec37a4bee07bcdba6eb1",
+   "size": 9162
   },
   {
    "path": "screens/install.js",
@@ -839,8 +839,8 @@
   },
   {
    "path": "screens/ip_notice.js",
-   "sha256": "9d137935d0bd49a19faec59f8e198848dfeee7a379b580e857a493bf2854dd40",
-   "size": 3159
+   "sha256": "0e9830abc028030e549f4252b0bdb73a554241439816ed30c97fa4a6a6987ede",
+   "size": 2881
   },
   {
    "path": "screens/names.js",
@@ -864,8 +864,8 @@
   },
   {
    "path": "screens/passkey_setup.js",
-   "sha256": "db53e1b8a8696f9de94d8a69df604a4f181e41f366c50b4a06586d8f3a0c23c8",
-   "size": 2503
+   "sha256": "1a415f5f6085b41162e425862bdddf80aefee17e3cfa4d0689a8bb395b006838",
+   "size": 2472
   },
   {
    "path": "screens/problem.js",
@@ -894,13 +894,13 @@
   },
   {
    "path": "screens/set_password.js",
-   "sha256": "cf2d3ea0f7971628aeebc4208ee3d19a83eb5e040c6d8c5a283d5dbf7a3763a2",
-   "size": 3902
+   "sha256": "fa7b61b6ca56b364b55a3099f911529441ad50d2178d55a9d06cec191b67a783",
+   "size": 3871
   },
   {
    "path": "screens/settings.js",
-   "sha256": "946efa43abbf925e8ef6307433a2ce5b071ab4f1530ca6fdf71cc2c45b3c35e4",
-   "size": 6202
+   "sha256": "4639b19ca09f475300a903033f3fd0cbbe6126a33489105bf2b6ab098f2e5e33",
+   "size": 6329
   },
   {
    "path": "screens/swap.js",
@@ -914,8 +914,8 @@
   },
   {
    "path": "screens/unlock.js",
-   "sha256": "be9c7665bd4eab2db3cea3affd4f9522d0f361d33d50c746ab317f1c9d5edcfd",
-   "size": 5777
+   "sha256": "c23c962480e681bfb1a152f7bfa7c35bfac7762d22c62e69717b84029ade6882",
+   "size": 5746
   },
   {
    "path": "screens/welcome.js",
@@ -964,8 +964,8 @@
   },
   {
    "path": "vendor/engine/wasm-client.wasm",
-   "sha256": "760eb2c769b3e557cc13bdb67686fc99584d97b6cb25ee21b0d13f408f484ce3",
-   "size": 5816775
+   "sha256": "8dd836cc1193ce9710a4aabedb6cecc1b5d41ff864544c0565eb7207b80c22dd",
+   "size": 5818390
   },
   {
    "path": "vendor/engine/wasm-client.worker.js",
